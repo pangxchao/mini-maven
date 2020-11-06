@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "bfc23gmqrvc6jknv3qyyswvroa"
+      "buildId": "wrr7usmcpjh7fpn3t7lhwzcule"
     }
   },
   "variants": [
@@ -115,11 +115,11 @@
         {
           "name": "mini-mvc-1.0.jar",
           "url": "mini-mvc-1.0.jar",
-          "size": 36307,
-          "sha512": "18b6ab64517c7b54e7a73c100d83b56a235ee2a21db461e477d406da944a96c20cb0e852bcf8f54132825f88697372b4b15e28ef83cde74cff276b953c341c91",
-          "sha256": "0cf5dfd2929389575ba4315019f82bb94816657d6f76bb94e1c0fbf657529e01",
-          "sha1": "3539dc17dfdf729221b3adc566e25bdff4f04aa6",
-          "md5": "c2d60ef1ff97386c86ec4bcd92b1ac27"
+          "size": 35802,
+          "sha512": "c8b678d829e91d06d23614caac4cda6e345964a93d1a456e91e58b1feec34d8b83361005258195e97cd0f7c1f2cfd4c3a937e4672ef2e773db3a494c2bd75b93",
+          "sha256": "2a36f6ef431790f9a67d2305cd25fd99592df3f6f0ad30830eb91b14b7c7fd30",
+          "sha1": "6e59acaafa3988dfd8c4560ff90a4785c9158e3b",
+          "md5": "485afb0a2792e99ae2a584071e33cd7c"
         }
       ]
     },
@@ -244,11 +244,11 @@
         {
           "name": "mini-mvc-1.0.jar",
           "url": "mini-mvc-1.0.jar",
-          "size": 36307,
-          "sha512": "18b6ab64517c7b54e7a73c100d83b56a235ee2a21db461e477d406da944a96c20cb0e852bcf8f54132825f88697372b4b15e28ef83cde74cff276b953c341c91",
-          "sha256": "0cf5dfd2929389575ba4315019f82bb94816657d6f76bb94e1c0fbf657529e01",
-          "sha1": "3539dc17dfdf729221b3adc566e25bdff4f04aa6",
-          "md5": "c2d60ef1ff97386c86ec4bcd92b1ac27"
+          "size": 35802,
+          "sha512": "c8b678d829e91d06d23614caac4cda6e345964a93d1a456e91e58b1feec34d8b83361005258195e97cd0f7c1f2cfd4c3a937e4672ef2e773db3a494c2bd75b93",
+          "sha256": "2a36f6ef431790f9a67d2305cd25fd99592df3f6f0ad30830eb91b14b7c7fd30",
+          "sha1": "6e59acaafa3988dfd8c4560ff90a4785c9158e3b",
+          "md5": "485afb0a2792e99ae2a584071e33cd7c"
         }
       ]
     },
@@ -264,11 +264,11 @@
         {
           "name": "mini-mvc-1.0-javadoc.jar",
           "url": "mini-mvc-1.0-javadoc.jar",
-          "size": 498422,
-          "sha512": "04e6127f36bfd8d8044e3e3f43ad6664e23a24847a4ce9d80d25983c5ac0708c071057cbd5c2235fd89fd08c47d56da567dce77fd796b8c568e9089f31e41ac3",
-          "sha256": "c6e2e29a0f68124caa6b93e0fbde267dad08fa1b80ec3fa54bb9c0186a6b6708",
-          "sha1": "0bcdffbe025a2cab7f3f298a26b30267dbb30b38",
-          "md5": "0cdd1754b3c002b1ecb7d5fb91d3d8fa"
+          "size": 498050,
+          "sha512": "522da8132742f3fcc6100535b0eaea8d0c3cfcb8beab61ba7b737591e057961b7c280da0f017a811c0641c88b064fa42381b4a4b771883e951fb5b88dd4bbceb",
+          "sha256": "cd74944a0e46297b7871c7b2c34aea6840d9ffc00cb70d4daa8faf186cae922a",
+          "sha1": "63a6791b399be46b9b6458801922aba4f43e66fc",
+          "md5": "fad063627acc5ef3953acf998556227e"
         }
       ]
     },
@@ -284,11 +284,11 @@
         {
           "name": "mini-mvc-1.0-sources.jar",
           "url": "mini-mvc-1.0-sources.jar",
-          "size": 20575,
-          "sha512": "ebbf965bf10cdf44397a3fbe03dd334e70357825dca2481d65b6d9b1d04470a9bdcc36eb62ced7a86ba4b6f3a955036e8fbdd12de3ac8bae48e6de02cdef4757",
-          "sha256": "ac14cae6caae75734f5ef623eaabb82c9c5abef854737dc6afbe3582e6ef52f0",
-          "sha1": "6f34a91ae24344a057c409c88591def64b87b0a4",
-          "md5": "e6a7df790412a540d914db64a06850f6"
+          "size": 20387,
+          "sha512": "10ff7dbe89d95283886af0782f67e9e597ad867ea2ad8f399448d8360e0ed07489a9452a3e6a12ac3c055e380baddaddaf9eab17f9f88f5c5cabed7d9ecd6f32",
+          "sha256": "90d0ff8e5cdb2baf134790511419a8b3dc16ac5934ed318102d461b3f4a363b1",
+          "sha1": "34b79f781c7dd59f88c1aaaa7babbb60b3855982",
+          "md5": "af78994c9c31ab179d48d52785cfaddd"
         }
       ]
     }
