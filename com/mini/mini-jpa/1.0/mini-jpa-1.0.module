@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.mini",
+    "module": "mini-jpa",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5.1",
+      "buildId": "hk5fj5f6mbagphs644zjkbw6fm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-jpa",
+          "version": {
+            "requires": "2.3.4.RELEASE"
+          }
+        },
+        {
+          "group": "org.hibernate",
+          "module": "hibernate-core",
+          "version": {
+            "requires": "5.4.21.Final"
+          }
+        },
+        {
+          "group": "com.mini",
+          "module": "mini-jdbc",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mini-jpa-1.0.jar",
+          "url": "mini-jpa-1.0.jar",
+          "size": 1589,
+          "sha512": "1e528ad1670b541464bf1b1bcd6dc0ac598949609c1039cb815d30c89b5cddefba496ce515bb2073c2e394e21f1c9c691760807e3aa851c31eebafe9cdcaa3c0",
+          "sha256": "58cc98d47b30c322b7d3218cf04dd988dbc0985e075c5bb494c1c9bc256b39aa",
+          "sha1": "3e0aa16fb2034cfcea74a759da9b8bd956b22519",
+          "md5": "6a2426fca8ee65ca6547b5ae69a74e7e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.3.72"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.3.72"
+          }
+        },
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.12"
+          }
+        },
+        {
+          "group": "org.springframework.data",
+          "module": "spring-data-jpa",
+          "version": {
+            "requires": "2.3.4.RELEASE"
+          }
+        },
+        {
+          "group": "org.hibernate",
+          "module": "hibernate-core",
+          "version": {
+            "requires": "5.4.21.Final"
+          }
+        },
+        {
+          "group": "com.mini",
+          "module": "mini-jdbc",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mini-jpa-1.0.jar",
+          "url": "mini-jpa-1.0.jar",
+          "size": 1589,
+          "sha512": "1e528ad1670b541464bf1b1bcd6dc0ac598949609c1039cb815d30c89b5cddefba496ce515bb2073c2e394e21f1c9c691760807e3aa851c31eebafe9cdcaa3c0",
+          "sha256": "58cc98d47b30c322b7d3218cf04dd988dbc0985e075c5bb494c1c9bc256b39aa",
+          "sha1": "3e0aa16fb2034cfcea74a759da9b8bd956b22519",
+          "md5": "6a2426fca8ee65ca6547b5ae69a74e7e"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mini-jpa-1.0-javadoc.jar",
+          "url": "mini-jpa-1.0-javadoc.jar",
+          "size": 397706,
+          "sha512": "3ec7d7925f9e5c67a556f754e4fb6e0ce46c84a0f13e77144622bd995193dc865fac2fab43f21a787c5d1780ab7574c5b45b586961c20a596abc2888b3c7641d",
+          "sha256": "85891d49bdb9afe73fddeee2e2be791b3afc06cf36c9deccf7263a61002d189c",
+          "sha1": "6b0e0472fa1d45d70ff8987fad967ab90c2870c9",
+          "md5": "32624592a6d54738efda77853a1e3c3f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mini-jpa-1.0-sources.jar",
+          "url": "mini-jpa-1.0-sources.jar",
+          "size": 1239,
+          "sha512": "e92a7d1bc6e6afb68d7d7d6d7f402ee74883cbed7219710d6a579c2094a25c99c261e58dce577ce193da591bb9c64a93d675484770f595ad65f8162ccb24e61e",
+          "sha256": "8fc370d9f0792043fa9cd0eea6523b636a55b25100e10cedc71457f010a4307a",
+          "sha1": "9a4e16f327bdb10234c835cad1188299e4ecd9d7",
+          "md5": "3cc8b607aab9731e4662758bb89310a3"
+        }
+      ]
+    }
+  ]
+}
