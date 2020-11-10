@@ -24,7 +24,7 @@
     </dependency>
     <dependency>
       <groupId>com.mini</groupId>
-      <artifactId>mini-jdbc</artifactId>
+      <artifactId>mini-data</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "ubuaal7utfhunddlq2ycnixh7m"
+      "buildId": "t5pxcdkkzvcw3ig6djo42tbvqm"
     }
   },
   "variants": [
@@ -35,17 +35,17 @@
           }
         },
         {
-          "group": "com.google.code.findbugs",
-          "module": "jsr305",
-          "version": {
-            "requires": "3.0.2"
-          }
-        },
-        {
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
             "requires": "2.0.0-alpha1"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "13.0"
           }
         }
       ],
@@ -53,11 +53,11 @@
         {
           "name": "mini-util-1.0.jar",
           "url": "mini-util-1.0.jar",
-          "size": 67151,
-          "sha512": "01f939131a8691456d57cd21c3bd2c7c69b256ede7bb0146323389567bb6324304d1b900d149a96ffa42c6e7e53271f216b7f6885250e3276ca35ac147c259df",
-          "sha256": "f5e623f3baf513b232670ff6a129a58b5be4ed674c22a273379562090bc9558b",
-          "sha1": "619a2fed7df06b51fbfe46550ef7e1f5f9fa163f",
-          "md5": "3f84783b36445244f72619eabf4b4041"
+          "size": 67086,
+          "sha512": "ee2d82804e279d985eb9cc60727ffd4fe1082fcec3583eecfe83b06e54268b771ad86f8f867d60d03a3d71b21f7a5d189c85edeafe165ea6d07657ed4c9ba39c",
+          "sha256": "aefab04afc58b6578975d569cb747734001fa74f2b083460897fb0eb520e97a9",
+          "sha1": "79a00c4434c9c5ddca4491b1cdeb630bb2d57481",
+          "md5": "93750c5b9dbc17f851ed3853492682fb"
         }
       ]
     },
@@ -102,17 +102,17 @@
           }
         },
         {
-          "group": "com.google.code.findbugs",
-          "module": "jsr305",
-          "version": {
-            "requires": "3.0.2"
-          }
-        },
-        {
           "group": "org.slf4j",
           "module": "slf4j-api",
           "version": {
             "requires": "2.0.0-alpha1"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "13.0"
           }
         }
       ],
@@ -120,11 +120,11 @@
         {
           "name": "mini-util-1.0.jar",
           "url": "mini-util-1.0.jar",
-          "size": 67151,
-          "sha512": "01f939131a8691456d57cd21c3bd2c7c69b256ede7bb0146323389567bb6324304d1b900d149a96ffa42c6e7e53271f216b7f6885250e3276ca35ac147c259df",
-          "sha256": "f5e623f3baf513b232670ff6a129a58b5be4ed674c22a273379562090bc9558b",
-          "sha1": "619a2fed7df06b51fbfe46550ef7e1f5f9fa163f",
-          "md5": "3f84783b36445244f72619eabf4b4041"
+          "size": 67086,
+          "sha512": "ee2d82804e279d985eb9cc60727ffd4fe1082fcec3583eecfe83b06e54268b771ad86f8f867d60d03a3d71b21f7a5d189c85edeafe165ea6d07657ed4c9ba39c",
+          "sha256": "aefab04afc58b6578975d569cb747734001fa74f2b083460897fb0eb520e97a9",
+          "sha1": "79a00c4434c9c5ddca4491b1cdeb630bb2d57481",
+          "md5": "93750c5b9dbc17f851ed3853492682fb"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "mini-util-1.0-javadoc.jar",
           "url": "mini-util-1.0-javadoc.jar",
-          "size": 498511,
-          "sha512": "690a97cbfb9812b8361b2f6df6ccb52538fa8f430769df4119a7efc17a5b8d167bebd4f16a99fe7ff0f737c13cee333b0e8c80c0f880536fd85f3e5156f5c877",
-          "sha256": "b039da2e08e995667746a3363ba856f5dc99542183e638ee46825ca587ad3e1e",
-          "sha1": "5b9b6e0293c84c796951f3dae552640cc65b6dbe",
-          "md5": "819c746d30f8526b767624f17f6c902a"
+          "size": 498419,
+          "sha512": "32ea632f5fa2798164ba13f1d6036bb25d87a91c28bf262c54b2638e5a59fef9d6b61635bdb893783187e0cd6c0b1ca52a0dd67bce76e7342bcce0b85772ae25",
+          "sha256": "fe8cf699df0edf00828fa0108bb6e569f79b8e072978840fed465e3cbd0b3224",
+          "sha1": "aeb3b931090c613c8958f3780142f33e48848dd5",
+          "md5": "714daa8a74870d45c2dafc22e2aed523"
         }
       ]
     },
@@ -161,10 +161,10 @@
           "name": "mini-util-1.0-sources.jar",
           "url": "mini-util-1.0-sources.jar",
           "size": 23861,
-          "sha512": "caccad49008702d411393d560ce3d9e3cee3f1b7c72c0cea9b1f82311c67695f989186a8473a817560b4a0906540753aa3646fc1749b8358f6211350e7c26ca9",
-          "sha256": "f3ab46f79bf0d1c64fabcdefe106578ce6d24b0b8fa58448b6f9dae930e32133",
-          "sha1": "8e653affcc007dc4d7d508d0d00223bc7298ce11",
-          "md5": "a292c489a60a128f3a70d1a3e99ed1f8"
+          "sha512": "01aecd30d812575353cda0511bbfe6d22c83d56273eb63460bef4f83a83f12bbaf6ca368c32972036bfba9041e04f529b101e09a7c4612431397fece36f06149",
+          "sha256": "ae790c4843f91de88b52d6d07ba32458dd807538c6fbd100654a6e34f0940164",
+          "sha1": "711b8b3b9cccd228aa88f684dd87973e4cfe5130",
+          "md5": "01ad4cc6e53ee21ced5cb319541f989c"
         }
       ]
     }

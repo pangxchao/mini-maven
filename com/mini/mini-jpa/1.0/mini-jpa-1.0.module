@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "hk5fj5f6mbagphs644zjkbw6fm"
+      "buildId": "6qacun4byjekxemxkxihoim6me"
     }
   },
   "variants": [
@@ -43,7 +43,7 @@
         },
         {
           "group": "com.mini",
-          "module": "mini-jdbc",
+          "module": "mini-data",
           "version": {
             "requires": "1.0"
           }
@@ -53,11 +53,11 @@
         {
           "name": "mini-jpa-1.0.jar",
           "url": "mini-jpa-1.0.jar",
-          "size": 1589,
-          "sha512": "1e528ad1670b541464bf1b1bcd6dc0ac598949609c1039cb815d30c89b5cddefba496ce515bb2073c2e394e21f1c9c691760807e3aa851c31eebafe9cdcaa3c0",
-          "sha256": "58cc98d47b30c322b7d3218cf04dd988dbc0985e075c5bb494c1c9bc256b39aa",
-          "sha1": "3e0aa16fb2034cfcea74a759da9b8bd956b22519",
-          "md5": "6a2426fca8ee65ca6547b5ae69a74e7e"
+          "size": 3325,
+          "sha512": "b9009bf93d01189efd0f7fbb2126a28fe8b8acb2ca301148bb44fcc9d4d859d4a7e064827e7a828f1217958f9e9bcb8baf242f62f9a4eb655c6ca8dec709878e",
+          "sha256": "9999202d6c7ceaa8c9d9bf36778fb49fe6b787c736ceb19ce970fa62d288f2d8",
+          "sha1": "8c54296cfa715042b731acc2bbe0903895d9096c",
+          "md5": "166cbabcc61cdf1bf93dd44a36ed760f"
         }
       ]
     },
@@ -110,7 +110,7 @@
         },
         {
           "group": "com.mini",
-          "module": "mini-jdbc",
+          "module": "mini-data",
           "version": {
             "requires": "1.0"
           }
@@ -120,11 +120,11 @@
         {
           "name": "mini-jpa-1.0.jar",
           "url": "mini-jpa-1.0.jar",
-          "size": 1589,
-          "sha512": "1e528ad1670b541464bf1b1bcd6dc0ac598949609c1039cb815d30c89b5cddefba496ce515bb2073c2e394e21f1c9c691760807e3aa851c31eebafe9cdcaa3c0",
-          "sha256": "58cc98d47b30c322b7d3218cf04dd988dbc0985e075c5bb494c1c9bc256b39aa",
-          "sha1": "3e0aa16fb2034cfcea74a759da9b8bd956b22519",
-          "md5": "6a2426fca8ee65ca6547b5ae69a74e7e"
+          "size": 3325,
+          "sha512": "b9009bf93d01189efd0f7fbb2126a28fe8b8acb2ca301148bb44fcc9d4d859d4a7e064827e7a828f1217958f9e9bcb8baf242f62f9a4eb655c6ca8dec709878e",
+          "sha256": "9999202d6c7ceaa8c9d9bf36778fb49fe6b787c736ceb19ce970fa62d288f2d8",
+          "sha1": "8c54296cfa715042b731acc2bbe0903895d9096c",
+          "md5": "166cbabcc61cdf1bf93dd44a36ed760f"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "mini-jpa-1.0-javadoc.jar",
           "url": "mini-jpa-1.0-javadoc.jar",
-          "size": 397706,
-          "sha512": "3ec7d7925f9e5c67a556f754e4fb6e0ce46c84a0f13e77144622bd995193dc865fac2fab43f21a787c5d1780ab7574c5b45b586961c20a596abc2888b3c7641d",
-          "sha256": "85891d49bdb9afe73fddeee2e2be791b3afc06cf36c9deccf7263a61002d189c",
-          "sha1": "6b0e0472fa1d45d70ff8987fad967ab90c2870c9",
-          "md5": "32624592a6d54738efda77853a1e3c3f"
+          "size": 404723,
+          "sha512": "25695d0f790c28188a8d6d8ef79c7835a7377b4f1a25bfb2258218c6ffc3eabb63aa8226c52056901eba517e94fb22a2607917483378c1775894aae8335e62c1",
+          "sha256": "e0b32dce46dad3f56b59b3f8d2c86b0c76acffd9ca424f6ac2e553887caf8322",
+          "sha1": "25864526f8147cd5337ffead0a3ce6bda98e9c62",
+          "md5": "21a2c708e0513a48b40c13ada1aadbaf"
         }
       ]
     },
@@ -160,11 +160,11 @@
         {
           "name": "mini-jpa-1.0-sources.jar",
           "url": "mini-jpa-1.0-sources.jar",
-          "size": 1239,
-          "sha512": "e92a7d1bc6e6afb68d7d7d6d7f402ee74883cbed7219710d6a579c2094a25c99c261e58dce577ce193da591bb9c64a93d675484770f595ad65f8162ccb24e61e",
-          "sha256": "8fc370d9f0792043fa9cd0eea6523b636a55b25100e10cedc71457f010a4307a",
-          "sha1": "9a4e16f327bdb10234c835cad1188299e4ecd9d7",
-          "md5": "3cc8b607aab9731e4662758bb89310a3"
+          "size": 2256,
+          "sha512": "144600c15e3434bfbff521341c238c90dd4d8ef4dc401bb432d7807c8c85bcb29328229d3f61999c7c940304b56f446c78f7c7b870728a914a12c41dc35b4671",
+          "sha256": "659794f24b3f5c1ba2708cd0f221ad01a186c6f80240b510edfd1af350ae998b",
+          "sha1": "8f46c688717de0af26f8ece1f358dfedb92fe6c8",
+          "md5": "446bccb12a33ab933789424d64e30bd9"
         }
       ]
     }

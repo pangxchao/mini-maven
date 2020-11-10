@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "5eoj53vlhzdi7e4wyla6763ygy"
+      "buildId": "ykh7wzzthrandkoahaybqrdame"
     }
   },
   "variants": [
@@ -29,49 +29,14 @@
       "dependencies": [
         {
           "group": "org.springframework.data",
-          "module": "spring-data-relational",
+          "module": "spring-data-jdbc",
           "version": {
             "requires": "2.0.4.RELEASE"
           }
         },
         {
-          "group": "org.springframework.data",
-          "module": "spring-data-commons",
-          "version": {
-            "requires": "2.3.4.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-context",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-aspects",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-jdbc",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-tx",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
           "group": "com.mini",
-          "module": "mini-util",
+          "module": "mini-data",
           "version": {
             "requires": "1.0"
           }
@@ -81,11 +46,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 138348,
-          "sha512": "cb8201440bbf580c073990abf25d5a3d75042df6703d5541fe15c940560b5d6a439daed2f499e52ad8acf86022fdcfce03d37ac613277d4e32492f406005482d",
-          "sha256": "52ffbd925d2ce335134f3bf2fdab318275594732540d3c96eb43580defb61cf9",
-          "sha1": "f2aa8bffe8fb75a5ec01690f7b3bed2cc1aa57a6",
-          "md5": "d46af9dffaa4fb241609e82f32bab711"
+          "size": 17041,
+          "sha512": "2d86fa4a4ec72b6124bcf5a9586095e4966344b0e9db78268764877adc5494ea16456b931dc55bdefb93f926ddb6281ce368d7c877ca297a0fda642b1dbf3b07",
+          "sha256": "dc4539db5ca7dfa6045736c34408eaf318afe65df12f1dd364dcf2646f5de8e0",
+          "sha1": "0b3dfc7686b286453c658610fa5ecc0eb8a305a4",
+          "md5": "852380ee61dfed681800f35da9fe1ffa"
         }
       ]
     },
@@ -124,49 +89,14 @@
         },
         {
           "group": "org.springframework.data",
-          "module": "spring-data-relational",
+          "module": "spring-data-jdbc",
           "version": {
             "requires": "2.0.4.RELEASE"
           }
         },
         {
-          "group": "org.springframework.data",
-          "module": "spring-data-commons",
-          "version": {
-            "requires": "2.3.4.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-context",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-aspects",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-jdbc",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
-          "group": "org.springframework",
-          "module": "spring-tx",
-          "version": {
-            "requires": "5.2.9.RELEASE"
-          }
-        },
-        {
           "group": "com.mini",
-          "module": "mini-util",
+          "module": "mini-data",
           "version": {
             "requires": "1.0"
           }
@@ -176,11 +106,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 138348,
-          "sha512": "cb8201440bbf580c073990abf25d5a3d75042df6703d5541fe15c940560b5d6a439daed2f499e52ad8acf86022fdcfce03d37ac613277d4e32492f406005482d",
-          "sha256": "52ffbd925d2ce335134f3bf2fdab318275594732540d3c96eb43580defb61cf9",
-          "sha1": "f2aa8bffe8fb75a5ec01690f7b3bed2cc1aa57a6",
-          "md5": "d46af9dffaa4fb241609e82f32bab711"
+          "size": 17041,
+          "sha512": "2d86fa4a4ec72b6124bcf5a9586095e4966344b0e9db78268764877adc5494ea16456b931dc55bdefb93f926ddb6281ce368d7c877ca297a0fda642b1dbf3b07",
+          "sha256": "dc4539db5ca7dfa6045736c34408eaf318afe65df12f1dd364dcf2646f5de8e0",
+          "sha1": "0b3dfc7686b286453c658610fa5ecc0eb8a305a4",
+          "md5": "852380ee61dfed681800f35da9fe1ffa"
         }
       ]
     },
@@ -196,11 +126,11 @@
         {
           "name": "mini-jdbc-1.0-javadoc.jar",
           "url": "mini-jdbc-1.0-javadoc.jar",
-          "size": 663857,
-          "sha512": "20b8c016a5680b880b10796c6120d3c8933b1e0ea8b9dec2f54fcf612989aa4bdf69f06cf0d1984e8c86eda5177e210a31f54c7d31758fe51c260525f6b77d6b",
-          "sha256": "b6cf66772c285ccf805c0bd8ed30a1db42873fdcf71191fb983c1b245eac3788",
-          "sha1": "04d6fe772d9399395d92ff4ed55f4d80d9c30f32",
-          "md5": "7fbe85f3b7f24bfaa46ce61a12d35e44"
+          "size": 438367,
+          "sha512": "2ce1d5953a982283bdabc96b7703995406ec6ba394512e90e4e7c222e292ea1e26c9d88a5d3f580e5a1b29512ac93991ba3c090720114d7f850412eaa6bf6d16",
+          "sha256": "0a0c2094dce39fe65966839c6eb471e1bd44fc2d093b626dc7fdceb355384ed0",
+          "sha1": "ed73ca557876eeebd2d78771ce1b2ae8608296dc",
+          "md5": "481c3abd96355199c1ced280acd9420e"
         }
       ]
     },
@@ -216,11 +146,11 @@
         {
           "name": "mini-jdbc-1.0-sources.jar",
           "url": "mini-jdbc-1.0-sources.jar",
-          "size": 37837,
-          "sha512": "a4abe2e9d8042abb837f0f622fad03accc7aa2ec599af89a8d66b3bcee42db18985c9421c4946971d8252981c79773278de5062e3547cfe926ee7ade266f239c",
-          "sha256": "2f1d38d414da1db674f4ea06fc5f8dcf9361020cc65e95b97c6ba9af9f0e3208",
-          "sha1": "9c80b5b7a3f368d30be1d8e0f083b6525854915c",
-          "md5": "cef317c47ce3b97228542c5591e878c0"
+          "size": 8270,
+          "sha512": "95c867fd4d80615ebf89e055dc0954641a4653ea57dcc30c2fb5e5964cb21db7746f07bed55e696ebd2c2b49e9fd6eda973b84ef2c3ff023b7d65a3851f0d44d",
+          "sha256": "59017079e094cac579e53197d9217e07fab1bc8f70123634f6bc8e7d2d779f55",
+          "sha1": "3bb4dd8cd4f801a541b51192136b9a71126cc836",
+          "md5": "75c8e9a585820a631e684f5b59f8d7bc"
         }
       ]
     }
