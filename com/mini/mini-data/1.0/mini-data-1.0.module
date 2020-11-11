@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "okhxofx7ffagpdgzvki37x2zsm"
+      "buildId": "jsh6lutrozhspp5ias5xw3jbpy"
     }
   },
   "variants": [
@@ -81,11 +81,11 @@
         {
           "name": "mini-data-1.0.jar",
           "url": "mini-data-1.0.jar",
-          "size": 95443,
-          "sha512": "ccbab958b8e28a47efe85016308a77490b38430fef6030e4a0f2988ce536adf1e6a14e98a5bff858a872c807b8c8d25b43f5bf3c4c41eed9ce1f348b4595a548",
-          "sha256": "6951c86d565ceb8228ec39256fa58f82698ee151ffb71d67ee0b3a922885a0bf",
-          "sha1": "f4a33c4982b0f4f95173841f64922250e2cc1386",
-          "md5": "9caea5ed01b4ea3e78833c684d09ef6f"
+          "size": 95666,
+          "sha512": "103637a0fa9c032dc9f842c6eca34e69490b7315fd156bca40b2648502ad47248a23c50fafbf4e85b3d4a0cc31d26ec28336b64c1d4518d69566565b40d4cf9f",
+          "sha256": "ff32b115834b14448a65f49bbec970a330036037b5dccd4fea186dfb98c08cb8",
+          "sha1": "ecee26ef142630ef77c63bc317d8c827b8db56c8",
+          "md5": "761fd58555468389496ded35d005b783"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "mini-data-1.0.jar",
           "url": "mini-data-1.0.jar",
-          "size": 95443,
-          "sha512": "ccbab958b8e28a47efe85016308a77490b38430fef6030e4a0f2988ce536adf1e6a14e98a5bff858a872c807b8c8d25b43f5bf3c4c41eed9ce1f348b4595a548",
-          "sha256": "6951c86d565ceb8228ec39256fa58f82698ee151ffb71d67ee0b3a922885a0bf",
-          "sha1": "f4a33c4982b0f4f95173841f64922250e2cc1386",
-          "md5": "9caea5ed01b4ea3e78833c684d09ef6f"
+          "size": 95666,
+          "sha512": "103637a0fa9c032dc9f842c6eca34e69490b7315fd156bca40b2648502ad47248a23c50fafbf4e85b3d4a0cc31d26ec28336b64c1d4518d69566565b40d4cf9f",
+          "sha256": "ff32b115834b14448a65f49bbec970a330036037b5dccd4fea186dfb98c08cb8",
+          "sha1": "ecee26ef142630ef77c63bc317d8c827b8db56c8",
+          "md5": "761fd58555468389496ded35d005b783"
         }
       ]
     },
@@ -196,11 +196,11 @@
         {
           "name": "mini-data-1.0-javadoc.jar",
           "url": "mini-data-1.0-javadoc.jar",
-          "size": 628358,
-          "sha512": "a2b92a19bd417736d31261ab3f62f5f6e0935143f1d6d7155c85cfa44eaabc33c6526b12d8f07f981e867819ee5dfa48535cea6a7b6dfa8d08e1677296a2a0e6",
-          "sha256": "8b79f56249b356743341a0061c07dfe675aedf3972cf6647ae39bd318a72ad52",
-          "sha1": "fe6bd498f6ad98fbc9240cf67e4304fb34faa102",
-          "md5": "d808a6b3c6e001706d7971b3f02659a4"
+          "size": 628994,
+          "sha512": "8b890a5233822e6d9b000effbc5dafdd244937a8d3b77507a8159d02e84b7aedb7e6524cc5ac0a214fee0a1416b9d804ab48d9e68720e89a7be4f37f12647f08",
+          "sha256": "c413414e768b9531c3776e4bc2d93321bb8db20e8f8a448bee8d137f74319a31",
+          "sha1": "7f58da2cced215df8fa1aacae4363f0a7868b849",
+          "md5": "deee91510d26fd700dff014a295c6a2f"
         }
       ]
     },
@@ -216,11 +216,11 @@
         {
           "name": "mini-data-1.0-sources.jar",
           "url": "mini-data-1.0-sources.jar",
-          "size": 31521,
-          "sha512": "01a63025f31fe7ab1d2da3d8889c796ae3f4de7bd7460a2449153eeb1e18936d5c250d29dc719b779e60ed9a13fbbf2d2a4d170807b7e1eaaee65acd2d2eb45a",
-          "sha256": "f8a6b738443ff5c16876ff835abc7bb48ae048898076f933ee9b135a588b40c4",
-          "sha1": "2bdcf6f4f58ca674300a11af8de10bb70d96089a",
-          "md5": "78529fd5000c0d21dff6259443d80c22"
+          "size": 31588,
+          "sha512": "77f0267fe44ee98737ade9a6ae9928a3dc89c5a6833c33abfdb91b9a5ab4af3d805afc1db164aefb1941366a06233d9fbd76e78267519bf06e823a9ecc345b5f",
+          "sha256": "6fb7228238f3da517af00fd0ba5619633b75c239d85ef211a9d38f7c27d91ce4",
+          "sha1": "26611da64360bc1282fc2a52cfa78a9fe6940b83",
+          "md5": "3b801513aabb9eed0ff119edde04f4d4"
         }
       ]
     }
