@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "t5pxcdkkzvcw3ig6djo42tbvqm"
+      "buildId": "ejg4n2aglffwbbozgglzdwwkju"
     }
   },
   "variants": [
@@ -53,11 +53,11 @@
         {
           "name": "mini-util-1.0.jar",
           "url": "mini-util-1.0.jar",
-          "size": 67086,
-          "sha512": "ee2d82804e279d985eb9cc60727ffd4fe1082fcec3583eecfe83b06e54268b771ad86f8f867d60d03a3d71b21f7a5d189c85edeafe165ea6d07657ed4c9ba39c",
-          "sha256": "aefab04afc58b6578975d569cb747734001fa74f2b083460897fb0eb520e97a9",
-          "sha1": "79a00c4434c9c5ddca4491b1cdeb630bb2d57481",
-          "md5": "93750c5b9dbc17f851ed3853492682fb"
+          "size": 67173,
+          "sha512": "3c8a1a87555774c786e24a88a174831d9926b2ab7d01d1619ef3921d87e93b62e894897b03584f69698804c04f535f29b4658fc5cebde5a120c6794c1c8e591d",
+          "sha256": "9529560aa6fc9ab1ce74f9f6559a65c1daa020609fe755a3eca46d387d35a1ea",
+          "sha1": "6c2e5f189002bfedf56884abe499ca091391f2f3",
+          "md5": "b7b77f6bec129c32243cc96eba0a55b2"
         }
       ]
     },
@@ -77,21 +77,21 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "junit",
           "module": "junit",
           "version": {
-            "requires": "4.12"
+            "requires": "4.13"
           }
         },
         {
@@ -120,11 +120,11 @@
         {
           "name": "mini-util-1.0.jar",
           "url": "mini-util-1.0.jar",
-          "size": 67086,
-          "sha512": "ee2d82804e279d985eb9cc60727ffd4fe1082fcec3583eecfe83b06e54268b771ad86f8f867d60d03a3d71b21f7a5d189c85edeafe165ea6d07657ed4c9ba39c",
-          "sha256": "aefab04afc58b6578975d569cb747734001fa74f2b083460897fb0eb520e97a9",
-          "sha1": "79a00c4434c9c5ddca4491b1cdeb630bb2d57481",
-          "md5": "93750c5b9dbc17f851ed3853492682fb"
+          "size": 67173,
+          "sha512": "3c8a1a87555774c786e24a88a174831d9926b2ab7d01d1619ef3921d87e93b62e894897b03584f69698804c04f535f29b4658fc5cebde5a120c6794c1c8e591d",
+          "sha256": "9529560aa6fc9ab1ce74f9f6559a65c1daa020609fe755a3eca46d387d35a1ea",
+          "sha1": "6c2e5f189002bfedf56884abe499ca091391f2f3",
+          "md5": "b7b77f6bec129c32243cc96eba0a55b2"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "mini-util-1.0-javadoc.jar",
           "url": "mini-util-1.0-javadoc.jar",
-          "size": 498419,
-          "sha512": "32ea632f5fa2798164ba13f1d6036bb25d87a91c28bf262c54b2638e5a59fef9d6b61635bdb893783187e0cd6c0b1ca52a0dd67bce76e7342bcce0b85772ae25",
-          "sha256": "fe8cf699df0edf00828fa0108bb6e569f79b8e072978840fed465e3cbd0b3224",
-          "sha1": "aeb3b931090c613c8958f3780142f33e48848dd5",
-          "md5": "714daa8a74870d45c2dafc22e2aed523"
+          "size": 498487,
+          "sha512": "da2ee5a283425c78ecc0baa4f48c537c251ded04f4974e6fafd6936f2ae8b6e93ce4c98e4ecd336b72a2aba164b343f93b20167556630f8c26b96d2075ca159c",
+          "sha256": "86599af769d9ce635f576cca389b28489aaad4f2f8fb12415fce78f5bf104682",
+          "sha1": "3faf431c19b7623f3b32e63cc45d81a2cea85543",
+          "md5": "3ca846dde8a79fac8522901d267dcb55"
         }
       ]
     },
@@ -160,11 +160,11 @@
         {
           "name": "mini-util-1.0-sources.jar",
           "url": "mini-util-1.0-sources.jar",
-          "size": 23861,
-          "sha512": "01aecd30d812575353cda0511bbfe6d22c83d56273eb63460bef4f83a83f12bbaf6ca368c32972036bfba9041e04f529b101e09a7c4612431397fece36f06149",
-          "sha256": "ae790c4843f91de88b52d6d07ba32458dd807538c6fbd100654a6e34f0940164",
-          "sha1": "711b8b3b9cccd228aa88f684dd87973e4cfe5130",
-          "md5": "01ad4cc6e53ee21ced5cb319541f989c"
+          "size": 23877,
+          "sha512": "1cf4e712fd80e074f6811028bd8fc76a1bc4486d1924c9cd4dec663304838f120754f9c22737fcd38312598e57aded2355608644f3ca1f5c3dfd631a62515da3",
+          "sha256": "30d7a194eccfc7571a5f03756c5a753670d078d0e7a8d32dd7bc2666a72fda49",
+          "sha1": "512e1262ac5df2171fb6b9385448879bc3727e32",
+          "md5": "c3100182c48103daa6abca1f0c9026b9"
         }
       ]
     }

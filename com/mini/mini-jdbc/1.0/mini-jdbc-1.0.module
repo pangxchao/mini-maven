@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "ykh7wzzthrandkoahaybqrdame"
+      "buildId": "exqcf37hdneufljkqv3qxfphpe"
     }
   },
   "variants": [
@@ -31,7 +31,7 @@
           "group": "org.springframework.data",
           "module": "spring-data-jdbc",
           "version": {
-            "requires": "2.0.4.RELEASE"
+            "requires": "2.0.5.RELEASE"
           }
         },
         {
@@ -46,11 +46,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 17041,
-          "sha512": "2d86fa4a4ec72b6124bcf5a9586095e4966344b0e9db78268764877adc5494ea16456b931dc55bdefb93f926ddb6281ce368d7c877ca297a0fda642b1dbf3b07",
-          "sha256": "dc4539db5ca7dfa6045736c34408eaf318afe65df12f1dd364dcf2646f5de8e0",
-          "sha1": "0b3dfc7686b286453c658610fa5ecc0eb8a305a4",
-          "md5": "852380ee61dfed681800f35da9fe1ffa"
+          "size": 16141,
+          "sha512": "8a01c2e77f0d4839e690f5179dd5bd8020d6cb84f4af7236da538f347ccb2c2c38f1a19c9c7a79e9a5c7a132cfa1c95034718db555cf10519fa80a738cf80deb",
+          "sha256": "5a9963e7a21e68df4d658760508d21c41cc1029cf27e1d166c75d1e5ed6bb379",
+          "sha1": "6aea78c2f6bd9771a57156aef51ed221047bf6b2",
+          "md5": "59102e922c34b6d6d9d93111ecc12c7f"
         }
       ]
     },
@@ -70,28 +70,28 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "junit",
           "module": "junit",
           "version": {
-            "requires": "4.12"
+            "requires": "4.13"
           }
         },
         {
           "group": "org.springframework.data",
           "module": "spring-data-jdbc",
           "version": {
-            "requires": "2.0.4.RELEASE"
+            "requires": "2.0.5.RELEASE"
           }
         },
         {
@@ -106,11 +106,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 17041,
-          "sha512": "2d86fa4a4ec72b6124bcf5a9586095e4966344b0e9db78268764877adc5494ea16456b931dc55bdefb93f926ddb6281ce368d7c877ca297a0fda642b1dbf3b07",
-          "sha256": "dc4539db5ca7dfa6045736c34408eaf318afe65df12f1dd364dcf2646f5de8e0",
-          "sha1": "0b3dfc7686b286453c658610fa5ecc0eb8a305a4",
-          "md5": "852380ee61dfed681800f35da9fe1ffa"
+          "size": 16141,
+          "sha512": "8a01c2e77f0d4839e690f5179dd5bd8020d6cb84f4af7236da538f347ccb2c2c38f1a19c9c7a79e9a5c7a132cfa1c95034718db555cf10519fa80a738cf80deb",
+          "sha256": "5a9963e7a21e68df4d658760508d21c41cc1029cf27e1d166c75d1e5ed6bb379",
+          "sha1": "6aea78c2f6bd9771a57156aef51ed221047bf6b2",
+          "md5": "59102e922c34b6d6d9d93111ecc12c7f"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mini-jdbc-1.0-javadoc.jar",
           "url": "mini-jdbc-1.0-javadoc.jar",
-          "size": 438367,
-          "sha512": "2ce1d5953a982283bdabc96b7703995406ec6ba394512e90e4e7c222e292ea1e26c9d88a5d3f580e5a1b29512ac93991ba3c090720114d7f850412eaa6bf6d16",
-          "sha256": "0a0c2094dce39fe65966839c6eb471e1bd44fc2d093b626dc7fdceb355384ed0",
-          "sha1": "ed73ca557876eeebd2d78771ce1b2ae8608296dc",
-          "md5": "481c3abd96355199c1ced280acd9420e"
+          "size": 436167,
+          "sha512": "89b76050d2ab6243f7eae23a71c410702d57afbfb17532ef7a70fb6976b73dcc09cd3a454c6ed115b5c571651af380c46bebbcb646b5981896c56dcee226eeed",
+          "sha256": "16ede5efbff73dbe13b64ac1e1bc2335dcf633fe77cac8d6212bde1962a56775",
+          "sha1": "ec814bb25fd819e9357e44c63bd63bec24de982b",
+          "md5": "49bb489950acf0d3ce6439d2726b41df"
         }
       ]
     },
@@ -146,11 +146,11 @@
         {
           "name": "mini-jdbc-1.0-sources.jar",
           "url": "mini-jdbc-1.0-sources.jar",
-          "size": 8270,
-          "sha512": "95c867fd4d80615ebf89e055dc0954641a4653ea57dcc30c2fb5e5964cb21db7746f07bed55e696ebd2c2b49e9fd6eda973b84ef2c3ff023b7d65a3851f0d44d",
-          "sha256": "59017079e094cac579e53197d9217e07fab1bc8f70123634f6bc8e7d2d779f55",
-          "sha1": "3bb4dd8cd4f801a541b51192136b9a71126cc836",
-          "md5": "75c8e9a585820a631e684f5b59f8d7bc"
+          "size": 8001,
+          "sha512": "8ea4633e345783a383a4d3205656a46ab9601f6649877d67f4e5df6d3a5452ef8e7595fe97d4893d2a4e315bf4d1d806e2dd294dd756d0506f89d9364e4e0ad9",
+          "sha256": "0cb266fc5de4291e8d8337e4a69032276ac4d72bf725c58d32b4afc861872bfa",
+          "sha1": "b527766bf05287ae042525573b9027552b183280",
+          "md5": "ab64738950bbbda545ead51dee5550eb"
         }
       ]
     }

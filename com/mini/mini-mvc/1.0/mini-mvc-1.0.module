@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "k5z2na6qcfffllnide62w7tlne"
+      "buildId": "sbocpanepzbanibmplcsvkwwbm"
     }
   },
   "variants": [
@@ -31,7 +31,7 @@
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-web",
           "version": {
-            "requires": "2.3.4.RELEASE"
+            "requires": "2.3.5.RELEASE"
           },
           "excludes": [
             {
@@ -44,42 +44,42 @@
           "group": "org.springframework.boot",
           "module": "spring-boot",
           "version": {
-            "requires": "2.3.4.RELEASE"
+            "requires": "2.3.5.RELEASE"
           }
         },
         {
           "group": "org.hibernate.validator",
           "module": "hibernate-validator",
           "version": {
-            "requires": "6.1.5.Final"
+            "requires": "6.1.6.Final"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-context",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-aspects",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-webmvc",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-web",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
@@ -115,11 +115,11 @@
         {
           "name": "mini-mvc-1.0.jar",
           "url": "mini-mvc-1.0.jar",
-          "size": 39151,
-          "sha512": "61d825fd4b6edc6e89c8e5198194becdc4ecd5e574f22c01769eef5fae26142a38f7730956443632a5dd36769fc2aece0b9130481cb10489ca65c802a32b4702",
-          "sha256": "31943b93aef773ecec3d661a5981381abd9939da7842f84b3e92bafe6ace99e1",
-          "sha1": "d6ce185c0777c8ab017dac7eabf31045290994a4",
-          "md5": "f88d7f9f2dbbe3c3acb7cd49e1c7566c"
+          "size": 36866,
+          "sha512": "4800b25c955879d12d1d5cb07686c8d190cf61d3c2a000ac54ea007ffa31808f364617c1f376106f80bc2cf3d9ec053bb2d614f6cac780516fb2dc1dfaf9d42f",
+          "sha256": "10cf385323c7e79287d195f42b0571bc2c6d20b0a2bf1c983175644f7ea0c308",
+          "sha1": "11dcbce16fbfa810cafed18d71fe9f29918b8d44",
+          "md5": "abc47851c5472e6197118fe14b10d332"
         }
       ]
     },
@@ -139,28 +139,28 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-reflect",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.3.72"
+            "requires": "1.4.10"
           }
         },
         {
           "group": "junit",
           "module": "junit",
           "version": {
-            "requires": "4.12"
+            "requires": "4.13"
           }
         },
         {
           "group": "org.springframework.boot",
           "module": "spring-boot-starter-web",
           "version": {
-            "requires": "2.3.4.RELEASE"
+            "requires": "2.3.5.RELEASE"
           },
           "excludes": [
             {
@@ -173,42 +173,42 @@
           "group": "org.springframework.boot",
           "module": "spring-boot",
           "version": {
-            "requires": "2.3.4.RELEASE"
+            "requires": "2.3.5.RELEASE"
           }
         },
         {
           "group": "org.hibernate.validator",
           "module": "hibernate-validator",
           "version": {
-            "requires": "6.1.5.Final"
+            "requires": "6.1.6.Final"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-context",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-aspects",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-webmvc",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
           "group": "org.springframework",
           "module": "spring-web",
           "version": {
-            "requires": "5.2.9.RELEASE"
+            "requires": "5.2.10.RELEASE"
           }
         },
         {
@@ -244,11 +244,11 @@
         {
           "name": "mini-mvc-1.0.jar",
           "url": "mini-mvc-1.0.jar",
-          "size": 39151,
-          "sha512": "61d825fd4b6edc6e89c8e5198194becdc4ecd5e574f22c01769eef5fae26142a38f7730956443632a5dd36769fc2aece0b9130481cb10489ca65c802a32b4702",
-          "sha256": "31943b93aef773ecec3d661a5981381abd9939da7842f84b3e92bafe6ace99e1",
-          "sha1": "d6ce185c0777c8ab017dac7eabf31045290994a4",
-          "md5": "f88d7f9f2dbbe3c3acb7cd49e1c7566c"
+          "size": 36866,
+          "sha512": "4800b25c955879d12d1d5cb07686c8d190cf61d3c2a000ac54ea007ffa31808f364617c1f376106f80bc2cf3d9ec053bb2d614f6cac780516fb2dc1dfaf9d42f",
+          "sha256": "10cf385323c7e79287d195f42b0571bc2c6d20b0a2bf1c983175644f7ea0c308",
+          "sha1": "11dcbce16fbfa810cafed18d71fe9f29918b8d44",
+          "md5": "abc47851c5472e6197118fe14b10d332"
         }
       ]
     },
@@ -264,11 +264,11 @@
         {
           "name": "mini-mvc-1.0-javadoc.jar",
           "url": "mini-mvc-1.0-javadoc.jar",
-          "size": 512412,
-          "sha512": "8d8ea62bb7c0c97b5e2f32599e910907769294539b732ab4fd7b6a1be1afca8fd3a5a38ee51d044663f4a4a9e7764914725ce80959d203b1354b9f84c751c1f6",
-          "sha256": "3e0057723c244214718cc06e44b340c4beb38e3d38005a6885190fb79d14131b",
-          "sha1": "56bdd8b47636e570886873a64619ff3749557ce7",
-          "md5": "17c711008e256453970e76b3674359ac"
+          "size": 503774,
+          "sha512": "183727e6b63ac052498d279d2e77c6a24bb180ba2b884d2d644591216112c30fb3832741278edb8e739a7c732645b1cca47328c7846e7eeefaad460c36e20ce7",
+          "sha256": "500e6c34a9d561817d0a77b89eeb06d070ed1f18bf64ebb6bb290d4c971691a9",
+          "sha1": "7fe4dcb64fa92a77548daaf28a4a44f55d3b4ee6",
+          "md5": "d4e6862d688657c65f75305cca4288e9"
         }
       ]
     },
@@ -284,11 +284,11 @@
         {
           "name": "mini-mvc-1.0-sources.jar",
           "url": "mini-mvc-1.0-sources.jar",
-          "size": 23033,
-          "sha512": "6a8b6bf33656ff91b85b110707570ab4ee7886351ed60ce5c24813102dae5ce8d3dbb6a3bc6987bc5e68c8dec08031b32b2e1f696a7d3d345290fcd0e36a2eb7",
-          "sha256": "bb272a98edda0a518036940e804dada0ebb37a6b7704c297f80e723f8ef379e6",
-          "sha1": "01d3b7d10ea93aab2b56ced020f75dee2f1eedc7",
-          "md5": "846b3b28f39c17f7f4a474246baa721b"
+          "size": 21541,
+          "sha512": "100ca5d152333a4cdb6764eec12f08aefe83b08e19fc6f480b76d65d39eba05d93e23865a64580f34cd220eec8b974df5f62549fc480ece3e031876ba4374826",
+          "sha256": "2319b2074d2b6103efcea3e5fda9ae03c43428c080e083906ed98159462895fd",
+          "sha1": "5edbc61996c73d1cdd1a5decd10b63ffe0815a89",
+          "md5": "a4ecfc902e2dbf537b656d6305db6470"
         }
       ]
     }
