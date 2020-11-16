@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "exqcf37hdneufljkqv3qxfphpe"
+      "buildId": "op4a3uahyja53ozpweba4klopy"
     }
   },
   "variants": [
@@ -46,11 +46,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 16141,
-          "sha512": "8a01c2e77f0d4839e690f5179dd5bd8020d6cb84f4af7236da538f347ccb2c2c38f1a19c9c7a79e9a5c7a132cfa1c95034718db555cf10519fa80a738cf80deb",
-          "sha256": "5a9963e7a21e68df4d658760508d21c41cc1029cf27e1d166c75d1e5ed6bb379",
-          "sha1": "6aea78c2f6bd9771a57156aef51ed221047bf6b2",
-          "md5": "59102e922c34b6d6d9d93111ecc12c7f"
+          "size": 16137,
+          "sha512": "21e67d992d81010020c7b9dda16591570d607b423b30b005309716a0441e7c4ee0606d45db46b4c725e34a84927b1eb5d97e3eb46a7ecf25fc24d2e103e9f80b",
+          "sha256": "dcaab2e42e820adbcdb683548325838f02bd60674cc21df0a28ecd92a6beb8fe",
+          "sha1": "2a4aa5a9be17da989b186ac2f4aa9b174e21c194",
+          "md5": "f0c9bd70775360ff15dcc4e7907dfabf"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "mini-jdbc-1.0.jar",
           "url": "mini-jdbc-1.0.jar",
-          "size": 16141,
-          "sha512": "8a01c2e77f0d4839e690f5179dd5bd8020d6cb84f4af7236da538f347ccb2c2c38f1a19c9c7a79e9a5c7a132cfa1c95034718db555cf10519fa80a738cf80deb",
-          "sha256": "5a9963e7a21e68df4d658760508d21c41cc1029cf27e1d166c75d1e5ed6bb379",
-          "sha1": "6aea78c2f6bd9771a57156aef51ed221047bf6b2",
-          "md5": "59102e922c34b6d6d9d93111ecc12c7f"
+          "size": 16137,
+          "sha512": "21e67d992d81010020c7b9dda16591570d607b423b30b005309716a0441e7c4ee0606d45db46b4c725e34a84927b1eb5d97e3eb46a7ecf25fc24d2e103e9f80b",
+          "sha256": "dcaab2e42e820adbcdb683548325838f02bd60674cc21df0a28ecd92a6beb8fe",
+          "sha1": "2a4aa5a9be17da989b186ac2f4aa9b174e21c194",
+          "md5": "f0c9bd70775360ff15dcc4e7907dfabf"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mini-jdbc-1.0-javadoc.jar",
           "url": "mini-jdbc-1.0-javadoc.jar",
-          "size": 436167,
-          "sha512": "89b76050d2ab6243f7eae23a71c410702d57afbfb17532ef7a70fb6976b73dcc09cd3a454c6ed115b5c571651af380c46bebbcb646b5981896c56dcee226eeed",
-          "sha256": "16ede5efbff73dbe13b64ac1e1bc2335dcf633fe77cac8d6212bde1962a56775",
-          "sha1": "ec814bb25fd819e9357e44c63bd63bec24de982b",
-          "md5": "49bb489950acf0d3ce6439d2726b41df"
+          "size": 436212,
+          "sha512": "33477c046726d9bd77d2ebad6d5edfe33b1d802e93f4002e0a17bfe411e801887ca4d951dd53d8184f10fe3a3becc6370e70db489d405e0df2ce6841520144f3",
+          "sha256": "5b48fe74ddf444f4fe939817b445bfed6612d63bc898de770e496fdb0769cb4e",
+          "sha1": "084d2b067070aecc5318278181d41af2f41c569b",
+          "md5": "6194a22750b3086ac1582297ff50e915"
         }
       ]
     },
@@ -146,11 +146,11 @@
         {
           "name": "mini-jdbc-1.0-sources.jar",
           "url": "mini-jdbc-1.0-sources.jar",
-          "size": 8001,
-          "sha512": "8ea4633e345783a383a4d3205656a46ab9601f6649877d67f4e5df6d3a5452ef8e7595fe97d4893d2a4e315bf4d1d806e2dd294dd756d0506f89d9364e4e0ad9",
-          "sha256": "0cb266fc5de4291e8d8337e4a69032276ac4d72bf725c58d32b4afc861872bfa",
-          "sha1": "b527766bf05287ae042525573b9027552b183280",
-          "md5": "ab64738950bbbda545ead51dee5550eb"
+          "size": 8122,
+          "sha512": "75254397bf2592ae80a50a36da10dde9b813a86764471378d4f1abdd1da72c9ae3e8790083d6e4f04da4803df93fccaf0e4cd5aa10bcdea6a0492a9c71926ec5",
+          "sha256": "2b8783440322fce9af3abaaa95871d746568bb6307e3985de70672158d4f644e",
+          "sha1": "9e70e0c43910b2daf01b15db82514c87798e395c",
+          "md5": "b792e5d50854321fa092ef68cf09e99f"
         }
       ]
     }
