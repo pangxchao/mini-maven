@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "z6bucutfm5ghfmrvv4m352kqla"
+      "buildId": "xjb4ve6sqnh3pj2lbtft3acsmi"
     }
   },
   "variants": [
@@ -53,11 +53,11 @@
         {
           "name": "mini-jpa-1.0.jar",
           "url": "mini-jpa-1.0.jar",
-          "size": 2683,
-          "sha512": "e03299e2b69b142b020d3394edb8373df93d0d8fa5dc043650505c87cecbc8b9a485cf366c540a40f97a51b02fe5d33ecc7aef582bae61816e673ace68ca4e82",
-          "sha256": "b467da9889d9456b45783f770d6a08a6ef268eb73a2e2deb157dc046bec676c6",
-          "sha1": "f1e5d8cff8c4cf27f520b3da92a5d978866be9e4",
-          "md5": "0c82ebeaac179a9a0e81e324a0ab514b"
+          "size": 2519,
+          "sha512": "262e200ac2a6862f2623fa446d13bdc60e63086cd135dcecc8f25ba6d86e98796917f5c94de8cfc7d2ad4944a0a4df3d081bfa787f975079e01dadc17e1ec6c8",
+          "sha256": "55a163dc4330288e0dc214b5af09a0d98c176ac248d3007078ef3ce47929e85b",
+          "sha1": "37436fdf8ab9d6e69d32a7bbebc79011bc893ca0",
+          "md5": "60cd249c9aab45c02a9289a5587678d7"
         }
       ]
     },
@@ -120,11 +120,11 @@
         {
           "name": "mini-jpa-1.0.jar",
           "url": "mini-jpa-1.0.jar",
-          "size": 2683,
-          "sha512": "e03299e2b69b142b020d3394edb8373df93d0d8fa5dc043650505c87cecbc8b9a485cf366c540a40f97a51b02fe5d33ecc7aef582bae61816e673ace68ca4e82",
-          "sha256": "b467da9889d9456b45783f770d6a08a6ef268eb73a2e2deb157dc046bec676c6",
-          "sha1": "f1e5d8cff8c4cf27f520b3da92a5d978866be9e4",
-          "md5": "0c82ebeaac179a9a0e81e324a0ab514b"
+          "size": 2519,
+          "sha512": "262e200ac2a6862f2623fa446d13bdc60e63086cd135dcecc8f25ba6d86e98796917f5c94de8cfc7d2ad4944a0a4df3d081bfa787f975079e01dadc17e1ec6c8",
+          "sha256": "55a163dc4330288e0dc214b5af09a0d98c176ac248d3007078ef3ce47929e85b",
+          "sha1": "37436fdf8ab9d6e69d32a7bbebc79011bc893ca0",
+          "md5": "60cd249c9aab45c02a9289a5587678d7"
         }
       ]
     },
@@ -140,11 +140,11 @@
         {
           "name": "mini-jpa-1.0-javadoc.jar",
           "url": "mini-jpa-1.0-javadoc.jar",
-          "size": 403414,
-          "sha512": "4feae706666cc8aa61a73665d0ac5dec9e90988f848e326b943b567ddb27084e9c3b7632080ef01699694e48ed60c631482b4ed61f926d4a6849de91bdc554aa",
-          "sha256": "c183e982546f8c207a7e76fbe0b2d02c1f2382b913327485528fc3d6e26cfa17",
-          "sha1": "7bfb03045e708d60654fbf03e4d95c79c11ce89e",
-          "md5": "c10cc3b05abd0beb5fb8d67e836be81e"
+          "size": 403167,
+          "sha512": "066c1b59e70c15df79b05fd45ec9acc92c43fb61cfde838027ad1373a073f7ce7006fd71987dfc28f5bec1b73e919d47e083ebbcda2910e53ab9097bf5a89999",
+          "sha256": "2d61c1ba3d53574129e0055745c3a5a16ad87e99dda5a74cf542e9e4b2cdc3d8",
+          "sha1": "c475ace1923c1b14c9087de93ceae5b8830839d7",
+          "md5": "2af4b32c75466fc1505621f424f926e9"
         }
       ]
     },
@@ -160,11 +160,11 @@
         {
           "name": "mini-jpa-1.0-sources.jar",
           "url": "mini-jpa-1.0-sources.jar",
-          "size": 1977,
-          "sha512": "0c00b3416701fb9cc9008e35d3c703d1ab5000e34669b19bae7899b712c2729597a2e5d2407604817a6c788882678be5cab5800437dc9a9f4cd98944a578bcd4",
-          "sha256": "ebb5fc27bc037b147aa8f4c89efcd11ec337692e29ca8849e0ff0fb7e7baab01",
-          "sha1": "86f6592763aa081384068bb1f451628afaa9f802",
-          "md5": "c0837ba0ac80532e9a3062a0207a0066"
+          "size": 1815,
+          "sha512": "e1551169411cad7a544397aaaedf1778d042367776ed6022f228af6b894fe218e210d5d03ac4149bb063242c3d4c712e3d0d7ecedc2654e16af62ffc7e372508",
+          "sha256": "6423ac6c71e4ff1d5819d2f7b969db23163e1ef2ff96d07db02dc905180f9644",
+          "sha1": "1f9ccdd28b80e50d31707bcdc8a930e140faf6fc",
+          "md5": "e5481b9a8cee61ade0c4d377def408fb"
         }
       ]
     }
