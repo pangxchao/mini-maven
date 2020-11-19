@@ -125,15 +125,16 @@
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.2.3</version>
-                <configuration>
-                    <packagingExcludes>
-                        WEB-INF/lib/commons-dbcp2-2.8.0.jar,
-                        WEB-INF/lib/tomcat-embed-*,
-                        META-INF/context.xml
-                    </packagingExcludes>
-                </configuration>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>3.1.0</version>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>
