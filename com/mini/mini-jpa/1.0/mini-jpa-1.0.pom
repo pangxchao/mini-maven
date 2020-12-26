@@ -45,7 +45,7 @@
         <!-- Com Mini Data 依赖包-->
         <dependency>
             <groupId>com.mini</groupId>
-            <artifactId>mini-data</artifactId>
+            <artifactId>mini-jdbc</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
