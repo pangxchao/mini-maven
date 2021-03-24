@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.csource</groupId>
+  <artifactId>fastdfs-client-java</artifactId>
+  <versioning>
+    <versions>
+      <version>1.29-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210324162719</lastUpdated>
+  </versioning>
+</metadata>
