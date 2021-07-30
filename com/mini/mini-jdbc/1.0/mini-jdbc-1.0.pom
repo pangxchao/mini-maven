@@ -32,13 +32,6 @@
             <version>${spring.data.jdbc.version}</version>
         </dependency>
 
-<!--        &lt;!&ndash; MyBatis 数据库框架 &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>com.baomidou</groupId>-->
-<!--            <artifactId>mybatis-plus-boot-starter</artifactId>-->
-<!--            <version>3.4.3.1</version>-->
-<!--        </dependency>-->
-
         <!-- MyBatis 数据库框架 -->
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
